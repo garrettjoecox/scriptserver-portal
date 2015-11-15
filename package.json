@@ -1,0 +1,25 @@
+{
+  "name": "scriptserver-portal",
+  "version": "0.0.1",
+  "description": "Portal addon for scriptserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettjoecox/scriptserver-portal.git"
+  },
+  "author": "Garrett Cox <garrettjcox@gmail.com> (http://garrettcox.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettjoecox/scriptserver-portal/issues"
+  },
+  "homepage": "https://github.com/garrettjoecox/scriptserver-portal#readme",
+  "dependencies": {
+    "scriptserver": "*",
+    "scriptserver-command": "*",
+    "scriptserver-helpers": "*",
+    "scriptserver-json": "*"
+  }
+}
